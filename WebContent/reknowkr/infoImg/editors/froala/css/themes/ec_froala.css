@@ -1,0 +1,21 @@
+.ec-froala-theme.fr-toolbar .fr-command.fr-btn svg.fr-svg, .ec-froala-theme.fr-popup .fr-command.fr-btn svg.fr-svg, .ec-froala-theme.fr-modal .fr-command.fr-btn svg.fr-svg { width: 20px; height: 20px; }
+.ec-froala-theme.fr-toolbar .fr-command.fr-btn span, .ec-froala-theme.fr-popup .fr-command.fr-btn span, .ec-froala-theme.fr-modal .fr-command.fr-btn span { font-size:12px; }
+.ec-froala-theme.fr-box.fr-basic .fr-element { font-size:12px; }
+.ec-froala-theme .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li { font-size:12px; }
+.ec-froala-theme.fr-box .fr-counter { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-action-buttons button.fr-command { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-input-line input[type="text"], .ec-froala-theme.fr-popup .fr-input-line textarea { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-input-line input + label, .ec-froala-theme.fr-popup .fr-input-line textarea + label { font-size: 12px; line-height: 1.4; }
+.ec-froala-theme.fr-popup .fr-plugins-enable,
+.ec-froala-theme.fr-popup .fr-plugins-cancel { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-layer.fr-color-hex-layer .fr-action-buttons button.fr-command { font-size: 12px; }
+.ec-froala-theme textarea.fr-code { font-size: 12px; }
+.ec-froala-theme.fr-modal .fr-modal-wrapper .fr-modal-head h4 { font-size: 16px; }
+.ec-froala-theme.fr-modal .fr-modal-wrapper .fr-modal-body .fr-help-modal table { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-checkbox-line { font-size: 12px; }
+.ec-froala-theme.fr-popup .fr-image-upload-layer { font-size: 12px; }
+.ec-froala-theme.fr-box a.fr-floating-btn i, .ec-froala-theme.fr-box a.fr-floating-btn svg { font-size:12px; }
+.ec-froala-theme .fr-toolbar.fr-top { border-radius: 0; -webkit-border-radius: 0; }
+.ec-froala-theme .second-toolbar { border-radius: 0; -webkit-border-radius: 0; }
+.ec-froala-theme .fr-qi-helper a.fr-btn.fr-floating-btn { padding: 10px; }
+.ec-froala-theme .fr-qi-helper a.fr-btn.fr-floating-btn .fr-svg { vertical-align: top; }
